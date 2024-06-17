@@ -1,0 +1,29 @@
+<html>
+<head>
+<title>Try Me</title>
+</head>
+<body>
+<header>
+<h1>Navigation Bar</h1>
+</header>
+<main>
+	<section>
+		<form>
+			<br>
+			<label for="name"> Enter your name:</label>
+			<input type="text" id="name" placeholder="enter your name" required>
+			<input type="submit" value="click here">
+			</br>
+<br>
+			<label for="name"> Enter your password:</label>
+			<input type="password" id="name" placeholder="enter your password" required>
+			<input type="submit" value="click here">
+</br>
+		</form>
+	</section>
+</main>
+<footer>
+<p>©2024 COM 109. All right reserved</p>
+</footer>
+</body>
+</html>
